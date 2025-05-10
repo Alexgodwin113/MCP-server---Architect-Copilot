@@ -14,3 +14,8 @@ azure-storage-blob
 chardet
 azure-keyvault-secrets
 coverage
+mcp-server
+openai
+python-dotenv
+azure-search-documents
+azure-core
